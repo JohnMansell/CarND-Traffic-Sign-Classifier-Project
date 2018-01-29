@@ -20,3 +20,4 @@ Batch Size -- 64
 [jupyter notebook](Traffic_Sign_Classifier.ipynb)  
 [python file](Traffic_Sign_Classifier.py)  
 [helper functions](helper_functions.py)
+[write up](Writeup.ipynb)
