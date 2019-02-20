@@ -1,13 +1,7 @@
-## Project: Build a Traffic Sign Recognition Program
+# Traffic Sign Classifier
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-# **Traffic Sign Recognition** 
-
-#### Writeup -- John Mansell
----
-
-### Goal:
-> The goal of this project is to build a neral network that can correctly identify traffic signs from the German Traffic Sign Database
+> Build a neural network that can correctly identify traffic signs from the German Traffic Sign Database
 
 ### Overview:
 > Test Accuracy -- 95%  
@@ -21,3 +15,13 @@ Batch Size -- 64
 [python file](Traffic_Sign_Classifier.py)  
 [helper functions](helper_functions.py)  
 [write up](Writeup.ipynb)
+
+
+### What I Learned
+> - Convolutional Neural Networks
+> - Tensorflow
+> - Deep Neural Networks
+> - LeNet
+> #### Languages
+> - Python
+> - Tensorflow-gpu
