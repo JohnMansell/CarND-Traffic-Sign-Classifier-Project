@@ -9,14 +9,6 @@ NN model -- LeNet
 Color Conversion -- RGB2GRAY  
 Batch Size -- 64
 
-### Project Code:
-> The project code can be found here:  
-[jupyter notebook version](Traffic_Sign_Classifier.ipynb)  
-[python file version](Traffic_Sign_Classifier.py)  
-[helper functions](helper_functions.py)  
-[write up](WriteUp.md)
-
-
 ### What I Learned
 > - Convolutional Neural Networks
 > - Tensorflow
@@ -25,3 +17,13 @@ Batch Size -- 64
 > #### Languages
 > - Python
 > - Tensorflow-gpu
+
+### Project Code:
+> The project code can be found here:  
+[jupyter notebook version](Traffic_Sign_Classifier.ipynb)  
+[python file version](Traffic_Sign_Classifier.py)  
+[helper functions](helper_functions.py)  
+[write up](WriteUp.md)
+
+
+
